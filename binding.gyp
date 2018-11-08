@@ -1,7 +1,7 @@
 {
     "targets": [
         {
-            "target_name": "sugarchain_yespower",
+            "target_name": "multi-hashing",
             "sources": [
                 "sugarchain_yespower.cc",
                 "yespower-1.0.0/yespower.h",
